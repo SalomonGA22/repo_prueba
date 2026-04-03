@@ -1,4 +1,4 @@
-# papa-salo
+# Cursito de Git/Github chevere
 Un repositorio de prueba para aprender Git/Github
 
 ## Descripcion
